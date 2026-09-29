@@ -8,5 +8,25 @@
 
 ## Referencias útiles:
 - Proyecto de referencia de un juego de preguntas y respuestas:
-  Ejemplo de Quiz Game en Python – GitHub
+ LISTA DE CONTROL DE PRUEBAS
+
+FUNCIONALIDAD
+ El botón Jugar funciona.
+ Las preguntas aparecen correctamente.
+ Las respuestas se pueden seleccionar.
+ Las respuestas correctas funcionan.
+ Las respuestas incorrectas funcionan.
+ Las preguntas aumentan de dificultad.
+ Los puntos/premios se actualizan correctamente.
+
+INTERFAZ
+ El diseño se ve correctamente.
+ Los botones funcionan.
+ El texto se puede leer.
+ La pantalla no se desordena.
+
+ERRORES
+ El juego no se bloquea.
+ Al reiniciar, el juego comienza correctamente.
+ No aparecen errores inesperados.
 
