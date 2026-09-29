@@ -30,3 +30,13 @@ ERRORES
  Al reiniciar, el juego comienza correctamente.
  No aparecen errores inesperados.
 
+
+☐ El botón "Jugar" funciona.
+☐ Las preguntas aparecen correctamente.
+☐ Se pueden seleccionar las respuestas.
+☐ Las respuestas correctas funcionan.
+☐ Las respuestas incorrectas funcionan.
+☐ Las preguntas aumentan de dificultad.
+☐ Los puntos/premios se actualizan correctamente.
+☑ El diseño se muestra correctamente.
+
